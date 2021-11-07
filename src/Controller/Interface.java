@@ -10,7 +10,6 @@ package Controller;
  * @author SILVI PRISILLIA
  */
 public interface Interface {
-    
     final int DEAD = 0;
     final int ALIVE = 1;
     
